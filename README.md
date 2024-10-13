@@ -24,4 +24,13 @@ jika user memilih selain angka 1 dan 2, akan muncul tulisan "pilihan tidak terse
 dengan memilih pilihan nomor 1, user akan memasuki mode admin. user diminta memasukan nama, kemudian memasukan PIN dengan benar.
 
 ![Cuplikan layar 2024-10-13 232503](https://github.com/user-attachments/assets/60155db2-186c-4f97-a494-09661412cc22)
+
 user hanya diberi 3 kesempatan memasukan PIN hingga benar, jika user sudah 3 kali salah memasukan PIN, mmaka login gagal, dan user diiberi pilihan apakah ingin kembali kemenu login atau keluar dari program.
+
+![Cuplikan layar 2024-10-13 232953](https://github.com/user-attachments/assets/74e03add-8eda-4594-b12c-5aad8dd3e6a4)
+
+jika user mengetik "Kembali" maka user kembali ke menu pilih role.
+
+![Cuplikan layar 2024-10-13 234355](https://github.com/user-attachments/assets/64651c05-f7e1-4b77-ade4-d391085a17bf)
+
+jika user mengetik "Keluar" maka program selesai.
