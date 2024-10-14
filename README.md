@@ -100,3 +100,17 @@ jika user mengetik "keluar" maka program akan selesai.
 kalau user asal mengetik maka akan muncul tulisan input tidak tersedia.
 
 ## Menu Customer
+![Cuplikan layar 2024-10-14 130207](https://github.com/user-attachments/assets/8fe7f7c9-8129-46dd-b09d-f418f3daa88f)
+
+setelah user memilih pilihan 2, user akan masuk ke mode customer dan diminta memasukan nama.
+
+![Cuplikan layar 2024-10-14 130600](https://github.com/user-attachments/assets/220062f0-80ca-4d6a-8ad7-8ed896b040e6)
+
+sistem akan mengucapkan selamat datang dan menampilkan list ke user, dan menanyakan list mana yang akan disewa.
+
+![Cuplikan layar 2024-10-14 130609](https://github.com/user-attachments/assets/9de36646-63e9-47f9-85a6-bfe7eb002a8d)
+setelah user mengetik pilihan sistem akan mengecek apakah nomor yang di input tersedia di list jika tersedia sistem akan menampilkan tabel terbaru dengan nama customer yang menyewa.
+
+![Cuplikan layar 2024-10-14 140951](https://github.com/user-attachments/assets/f6e45607-0e78-4641-a31a-1c3a2e9dae6c)
+
+jika user memasukan nomor yang tidak tersedia di list, sistem akan memberi tahu bahwa list tidak tersedia dan meminta user/customer menginput ulang.
