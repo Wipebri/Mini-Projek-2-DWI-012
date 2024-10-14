@@ -63,8 +63,10 @@ jika user asal-asalan mengetik maka akan muncul tulisan input tidak tersedia, da
 
 jika user memilih pilihan 2, sistem otomatis menampilkan tabel list terakhir, kemudian memerintahkan user mengisi data list terbaru yang dimasukan (Nomor, hari, room type, harga, dan nama pemesan jika sudah booking duluan)
 
-![Cuplikan layar 2024-10-14 084144](https://github.com/user-attachments/assets/b5445712-fc2e-4095-9d70-35f62586c5f2)
+
 setelah user selesai mengisi data list terbaru, sistem otomatis menampilkan tabel list terbaru, kemudian menawarkan ingin menambah lagi atau kembali ke menu pilihan.
+jika user mengetik 
 
 
+![Cuplikan layar 2024-10-14 092603](https://github.com/user-attachments/assets/d99aeb7f-9a5a-4545-9623-c5e3eb50075d)
 
