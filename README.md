@@ -83,9 +83,11 @@ setelah mengetik nomor list yang ingin dihapus, sistem akan menampilkan tabel te
 jika user memilih pilihan 4, sistem otomatis menampilkan tabel list terakhir, kemudian memerintahkan user memasukan nomor list yang ingin diubah.
 
 ![Cuplikan layar 2024-10-14 135517](https://github.com/user-attachments/assets/83f1cdf7-ef16-4f8a-9aaf-64968b9c6433)
+
 kemudian sistem menanyakan bagian mana yang ingin diubah oleh user.
 
 ![Cuplikan layar 2024-10-14 135542](https://github.com/user-attachments/assets/fc0c7ec5-26f8-47dc-9c32-e4a3ca9a51b2)
+
 setelah user mengubah bagian yang ingin diubahnya sistem akan menampilkan tabel terbaru, kemudian menawarkan ingin mengubah lagi atau tidak.
 
 ### Memilih Pilihan 5
@@ -109,6 +111,7 @@ setelah user memilih pilihan 2, user akan masuk ke mode customer dan diminta mem
 sistem akan mengucapkan selamat datang dan menampilkan list ke user, dan menanyakan list mana yang akan disewa.
 
 ![Cuplikan layar 2024-10-14 130609](https://github.com/user-attachments/assets/9de36646-63e9-47f9-85a6-bfe7eb002a8d)
+
 setelah user mengetik pilihan sistem akan mengecek apakah nomor yang di input tersedia di list jika tersedia sistem akan menampilkan tabel terbaru dengan nama customer yang menyewa.
 
 ![Cuplikan layar 2024-10-14 140951](https://github.com/user-attachments/assets/f6e45607-0e78-4641-a31a-1c3a2e9dae6c)
