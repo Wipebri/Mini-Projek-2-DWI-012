@@ -71,10 +71,32 @@ jika user mengetik "y" maka user bisa menambahkan list lagi, jika mengetik "n" m
 ### Memilih Pilihan 3
 ![Cuplikan layar 2024-10-14 134409](https://github.com/user-attachments/assets/bc9d3be5-ddad-495d-9213-de1d5af42ca5)
 
-jika user memilih pilihan 3, sistem otomatis menampilkan tabel list terakhir, kemudian memerintahkan user memasukan nomor list yang ingin dihapus
+jika user memilih pilihan 3, sistem otomatis menampilkan tabel list terakhir, kemudian memerintahkan user memasukan nomor list yang ingin dihapus.
 
 ![Cuplikan layar 2024-10-14 134417](https://github.com/user-attachments/assets/ef14ba61-4db7-4bc1-bc05-16f92657bd61)
 
-setelah mengetik nomor list yang ingin dihapus, sistem akan menampilkan tabel terbarunya, kemudia menawarkan apakah ingin menghapus lagi atau tidak
+setelah mengetik nomor list yang ingin dihapus, sistem akan menampilkan tabel terbarunya, kemudia menawarkan apakah ingin menghapus lagi atau tidak.
 
 ### Pilihan 4
+![Cuplikan layar 2024-10-14 135455](https://github.com/user-attachments/assets/05e87a56-826f-4050-96c7-e99d6a3e6aff)
+
+jika user memilih pilihan 4, sistem otomatis menampilkan tabel list terakhir, kemudian memerintahkan user memasukan nomor list yang ingin diubah.
+
+![Cuplikan layar 2024-10-14 135517](https://github.com/user-attachments/assets/83f1cdf7-ef16-4f8a-9aaf-64968b9c6433)
+kemudian sistem menanyakan bagian mana yang ingin diubah oleh user.
+
+![Cuplikan layar 2024-10-14 135542](https://github.com/user-attachments/assets/fc0c7ec5-26f8-47dc-9c32-e4a3ca9a51b2)
+setelah user mengubah bagian yang ingin diubahnya sistem akan menampilkan tabel terbaru, kemudian menawarkan ingin mengubah lagi atau tidak.
+
+### Memilih Pilihan 5
+![Cuplikan layar 2024-10-14 140038](https://github.com/user-attachments/assets/d8562885-1e65-4b20-a06c-a207a9c572f3)
+
+jika user memilih pilihan nomor 5, sistem akan menanyakan apakah user ingin keluar atau kembali ke menu login.
+jika user mengetik "kembali" maka user akan kembali ke menu pemilihan role.
+jika user mengetik "keluar" maka program akan selesai.
+
+![Cuplikan layar 2024-10-14 140059](https://github.com/user-attachments/assets/c97cc19d-2b99-4b95-8ed3-0035602fe1ce)
+
+kalau user asal mengetik maka akan muncul tulisan input tidak tersedia.
+
+## Menu Customer
