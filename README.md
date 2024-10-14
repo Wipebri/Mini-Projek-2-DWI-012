@@ -54,19 +54,19 @@ jika user mengetik "pilihan" sistem otomatis menampilkan kembali menu pilihan un
 
 jika user mengetik "Login" maka sistem otomatis mengembalikan user ke menu pilihan role.
 
-![Cuplikan layar 2024-10-14 083558](https://github.com/user-attachments/assets/502d472d-f13d-4a47-af51-0c2fb4da014b)
+![Cuplikan layar 2024-10-14 133643](https://github.com/user-attachments/assets/a45b1647-a3d0-4e35-836f-a30c3c913392)
 
 jika user asal-asalan mengetik maka akan muncul tulisan input tidak tersedia, dan muncul perintah untuk mengetik sesuai opsi yang diberikan.
 
 ### Memilih Pilihan 2
-![Cuplikan layar 2024-10-14 084137](https://github.com/user-attachments/assets/433ca592-b4f5-4f1f-b1fd-1f9032ca244b)
+![Cuplikan layar 2024-10-14 133838](https://github.com/user-attachments/assets/d9ca29e9-7dcc-4da9-8619-3b8dca6bee65)
 
 jika user memilih pilihan 2, sistem otomatis menampilkan tabel list terakhir, kemudian memerintahkan user mengisi data list terbaru yang dimasukan (Nomor, hari, room type, harga, dan nama pemesan jika sudah booking duluan)
 
+![Cuplikan layar 2024-10-14 133904](https://github.com/user-attachments/assets/859ebeeb-2180-479f-9e90-354dbd0b6f86)
 
 setelah user selesai mengisi data list terbaru, sistem otomatis menampilkan tabel list terbaru, kemudian menawarkan ingin menambah lagi atau kembali ke menu pilihan.
-jika user mengetik 
+jika user mengetik "y" maka user bisa menambahkan list lagi, jika mengetik "n" maka user akan kembali ke menu list fitur admin.
 
-
-![Cuplikan layar 2024-10-14 092603](https://github.com/user-attachments/assets/d99aeb7f-9a5a-4545-9623-c5e3eb50075d)
+### Memilih Pilihan 3
 
