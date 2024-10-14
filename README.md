@@ -4,7 +4,7 @@ DWI PEBRIYANTO PRADANA | 2409116012 | SISTEM INFORMASI A 2024
 Tema : Program Penyewaan Tempat Karaoke
 
 # Flowchart
-![mini projek 2 drawio (3)](https://github.com/user-attachments/assets/16fc4e57-4de5-46cd-9a1a-0e97b59f1d17)
+![mini projek 2 drawio (4)](https://github.com/user-attachments/assets/941d501e-a5fb-43e9-973e-765c2300f88a)
 
 # Penjelasan Output
 ## Menu Login
