@@ -69,4 +69,12 @@ setelah user selesai mengisi data list terbaru, sistem otomatis menampilkan tabe
 jika user mengetik "y" maka user bisa menambahkan list lagi, jika mengetik "n" maka user akan kembali ke menu list fitur admin.
 
 ### Memilih Pilihan 3
+![Cuplikan layar 2024-10-14 134409](https://github.com/user-attachments/assets/bc9d3be5-ddad-495d-9213-de1d5af42ca5)
 
+jika user memilih pilihan 3, sistem otomatis menampilkan tabel list terakhir, kemudian memerintahkan user memasukan nomor list yang ingin dihapus
+
+![Cuplikan layar 2024-10-14 134417](https://github.com/user-attachments/assets/ef14ba61-4db7-4bc1-bc05-16f92657bd61)
+
+setelah mengetik nomor list yang ingin dihapus, sistem akan menampilkan tabel terbarunya, kemudia menawarkan apakah ingin menghapus lagi atau tidak
+
+### Pilihan 4
