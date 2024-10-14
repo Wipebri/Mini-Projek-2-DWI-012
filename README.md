@@ -4,53 +4,53 @@ DWI PEBRIYANTO PRADANA | 2409116012 | SISTEM INFORMASI A 2024
 Tema : Program Penyewaan Tempat Karaoke
 
 # Flowchart
-![mini projek 2 drawio (2)](https://github.com/user-attachments/assets/21b3f3d3-ddea-469a-92d1-564f061b850a)
-
+![mini projek 2 drawio (3)](https://github.com/user-attachments/assets/16fc4e57-4de5-46cd-9a1a-0e97b59f1d17)
 
 # Penjelasan Output
 ## Menu Login
-![Cuplikan layar 2024-10-13 232348](https://github.com/user-attachments/assets/bdac73d1-6db4-48a9-9916-5c5e697d134e)
+![Cuplikan layar 2024-10-14 130045](https://github.com/user-attachments/assets/cdb40433-5164-4535-b44e-07cb373e0d41)
 
 saat memulai program user akan di ucapkan selamat datang, dan diberi pilihan untuk memilih role.
 - Admin, dengan role ini user dapat melakukan Create, Read, Update, dan Delete (CRUD), pada database.
 - Customer, dengan role ini user hanya dapat melakukan transaksi yaitu penyewaan.
 
-![Cuplikan layar 2024-10-13 233007](https://github.com/user-attachments/assets/3f507eb4-decc-497e-9bcc-50c8741eb90d)
+![Cuplikan layar 2024-10-14 130115](https://github.com/user-attachments/assets/fc702bdc-1914-47a5-a5fe-9b59399c7983)
 
 jika user memilih selain angka 1 dan 2, akan muncul tulisan "pilihan tidak tersedia", kemudian memerintahkan user untuk memilih pilhan yang tersedia.
 
 ## Menu Admin
-![Cuplikan layar 2024-10-13 232436](https://github.com/user-attachments/assets/3c38d77e-a79e-408c-b507-ffde6cbb6301)
+![Cuplikan layar 2024-10-14 130137](https://github.com/user-attachments/assets/2e179774-59ce-433d-9b7c-b91d5ec4b7d2)
+
 
 dengan memilih pilihan nomor 1, user akan memasuki mode admin. user diminta memasukan nama, kemudian memasukan PIN dengan benar.
 
 ### Memasukan PIN
-![Cuplikan layar 2024-10-13 232503](https://github.com/user-attachments/assets/60155db2-186c-4f97-a494-09661412cc22)
+![Cuplikan layar 2024-10-14 131023](https://github.com/user-attachments/assets/6eb53775-0746-4804-8484-f4da91559615)
 
 user hanya diberi 3 kesempatan memasukan PIN hingga benar, jika user sudah 3 kali salah memasukan PIN, mmaka login gagal, dan user diiberi pilihan apakah ingin kembali kemenu login atau keluar dari program.
 
-![Cuplikan layar 2024-10-13 232953](https://github.com/user-attachments/assets/74e03add-8eda-4594-b12c-5aad8dd3e6a4)
+![Cuplikan layar 2024-10-14 131045](https://github.com/user-attachments/assets/adeff1fc-2402-457c-854e-8e3655051e76)
 
 jika user mengetik "Kembali" maka user kembali ke menu pilih role.
 
-![Cuplikan layar 2024-10-13 234355](https://github.com/user-attachments/assets/64651c05-f7e1-4b77-ade4-d391085a17bf)
+![Cuplikan layar 2024-10-14 132533](https://github.com/user-attachments/assets/623a5431-ee7a-4407-9716-81763ec6587e)
 
 jika user mengetik "Keluar" maka program selesai.
 
-![Cuplikan layar 2024-10-14 071846](https://github.com/user-attachments/assets/65402fd9-55ee-4721-b1e9-455d81fa45ea)
+![Cuplikan layar 2024-10-14 131336](https://github.com/user-attachments/assets/2f5adb57-53e7-4357-b973-e4f62ad92865)
 
 ketika user berhasil memasukan PIN dengan benar, user akan lanjut ke pilihan menu fitur yang dimiliki admin.
 
 ### Memilih pilihan 1
-![Cuplikan layar 2024-10-14 083007](https://github.com/user-attachments/assets/a12edbf6-07d7-4a75-be6a-375673fe654b)
+![Cuplikan layar 2024-10-14 131354](https://github.com/user-attachments/assets/ec462a37-a364-4a8f-a600-ac76038d80c4)
 
 pilihan 1 akan menampilkan list harga yang tersedia di database, setelah itu program menawarkan apakah ingin kembali ke menu pilihan atau ke menu login memilih role.
 
-![Cuplikan layar 2024-10-14 082810](https://github.com/user-attachments/assets/540fc354-715a-4671-9483-0049d6c36a5c)
+![Cuplikan layar 2024-10-14 133236](https://github.com/user-attachments/assets/328ca0ec-4a55-4751-9468-3dc37bf4d6d5)
 
 jika user mengetik "pilihan" sistem otomatis menampilkan kembali menu pilihan untuk fitur admin
 
-![Cuplikan layar 2024-10-14 082826](https://github.com/user-attachments/assets/72d84de4-d33d-4efc-9a47-58fe63b7568e)
+![Cuplikan layar 2024-10-14 133251](https://github.com/user-attachments/assets/e6c46479-1c0d-46f8-83df-3c78630ba26e)
 
 jika user mengetik "Login" maka sistem otomatis mengembalikan user ke menu pilihan role.
 
